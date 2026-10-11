@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /impressum
+Disallow: /privacy
+
+Sitemap: https://driftward.de/sitemap.xml
